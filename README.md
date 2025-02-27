@@ -15,3 +15,6 @@ This project forecasts electricity spot prices using SARIMA (Seasonal ARIMA) in 
   
 <h3>Walk-through of the code and results:</h3>
 
+<img src="https://imgur.com/a/2LlncOj" height="80%" width="80%" alt="Importing libraries"/>
+<br />
+
