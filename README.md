@@ -13,6 +13,5 @@ This project forecasts electricity spot prices using SARIMA (Seasonal ARIMA) in 
 
 - Outcome: Forecasts electricity prices for the next 24 hours.
   
-<h3>The results:</h3>
-
+<h3>Walk-through of the code and results:</h3>
 
