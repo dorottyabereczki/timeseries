@@ -4,7 +4,7 @@ Electricity Spot Price Forecasting using SARIMA
 
 This project forecasts electricity spot prices using SARIMA (Seasonal ARIMA) in Python. The model accounts for daily seasonality and provides short-term predictions.
 
-This is a very simple model, only focusing on the prices. External variables could be included to improve the model such as weather, demand, gas prices, and renewable energy production, moreover the addition of factors like wind and solar forecasts could improve accuracy.
+This is a very simple model, only focusing on the prices. External variables should be included to improve the model such as weather, demand, gas prices, and renewable energy production, moreover the addition of factors like wind and solar forecasts could improve accuracy.
 
 <h3>Project Overview</h3>
 
